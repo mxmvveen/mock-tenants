@@ -1,39 +1,40 @@
-{"tenants": [
-    {
-        "fullName": "Jane Doe",
-        "apartmentNo": 105,
-        "arrivalDate": "02-12-2017",
-        "departure": "02-12-2018"
-    },
-     {
-        "fullName": "john Doe",
-        "apartmentNo": 110,
-        "arrivalDate": "03-06-2018",
-        "departure": "02-12-2019"
-    },
-           {
-        "fullName": "peter dirk",
-        "apartmentNo": 107,
-        "arrivalDate": "05-12-2018",
-        "departure": "13-04-2019"
-    },
-      {
-        "fullName": "albert jan",
-        "apartmentNo": 102,
-        "arrivalDate": "10-11-2017",
-        "departure": "02-12-2018"
-    },
-     {
-        "fullName": "Harry van veldhoven",
-        "apartmentNo": 104,
-        "arrivalDate": "10-11-2017",
-        "departure": "02-12-2018"
-    },
-            {
-        "fullName": "Gerard van Loon",
-        "apartmentNo": 101,
-        "arrivalDate": "10-12-2017",
-        "departure": "19-12-2018"
-    }
-]
+{
+    "tenants": [
+        {
+            "fullName": "Jane Doe",
+            "apartmentNo": 105,
+            "arrivalDate": "02-12-2017",
+            "departure": "02-12-2018"
+        },
+        {
+            "fullName": "john Doe",
+            "apartmentNo": 110,
+            "arrivalDate": "03-06-2018",
+            "departure": "02-12-2019"
+        },
+        {
+            "fullName": "peter dirk",
+            "apartmentNo": 107,
+            "arrivalDate": "05-12-2018",
+            "departure": "13-04-2019"
+        },
+        {
+            "fullName": "albert jan",
+            "apartmentNo": 102,
+            "arrivalDate": "10-11-2017",
+            "departure": "02-12-2018"
+        },
+        {
+            "fullName": "Harry van veldhoven",
+            "apartmentNo": 104,
+            "arrivalDate": "10-11-2017",
+            "departure": "02-12-2018"
+        },
+        {
+            "fullName": "Gerard van Loon",
+            "apartmentNo": 101,
+            "arrivalDate": "10-12-2017",
+            "departure": "19-12-2018"
+        }
+    ]
 }
