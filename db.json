@@ -1,4 +1,4 @@
-"tenants": [
+{"tenants": [
     {
         "fullName": "Jane Doe",
         "apartmentNo": 105,
@@ -36,3 +36,4 @@
         "departure": "19-12-2018"
     }
 ]
+}
